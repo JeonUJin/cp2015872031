@@ -1,7 +1,7 @@
 #include<stdio.h>
 //함수 printArray()
 //입력 : 배열
-//추력 : 없음
+//출력 : 없음
 //부수효과 : 화면이 모든 요소를 출력
 void printArray(int arr[], int length){
 	int count = 0;
