@@ -1,12 +1,12 @@
-﻿빌드 시작: 2018-11-27 오후 5:39:51
-     1>2 노드의 "C:\Users\Admin\Documents\Visual Studio 2012\Projects\20181127\20181127\20181127.vcxproj" 프로젝트(Build 대상)입니다.
+﻿빌드 시작: 2018-12-04 오후 2:00:26
+     1>2 노드의 "C:\Users\Admin\cp2015872031\20181127\20181127\20181127.vcxproj" 프로젝트(Build 대상)입니다.
      1>ClCompile:
          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "구조체.cpp"
          구조체.cpp
-     1>c:\users\admin\documents\visual studio 2012\projects\20181127\20181127\구조체.cpp(43): error C2440: 'return' : 'Complex'에서 'Complex *'(으)로 변환할 수 없습니다.
+     1>c:\users\admin\cp2015872031\20181127\20181127\구조체.cpp(43): error C2440: 'return' : 'Complex'에서 'Complex *'(으)로 변환할 수 없습니다.
                  이 변환을 수행할 수 있는 사용 가능한 사용자 정의 변환 연산자가 없거나 연산자를 호출할 수 없습니다.
-     1>"C:\Users\Admin\Documents\Visual Studio 2012\Projects\20181127\20181127\20181127.vcxproj" 프로젝트를 빌드했습니다(Build 대상). - 실패
+     1>"C:\Users\Admin\cp2015872031\20181127\20181127\20181127.vcxproj" 프로젝트를 빌드했습니다(Build 대상). - 실패
 
 빌드하지 못했습니다.
 
-경과 시간: 00:00:00.31
+경과 시간: 00:00:00.33

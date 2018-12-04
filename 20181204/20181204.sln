@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "20181204", "20181204\20181204.vcxproj", "{09A5B0D0-B603-4A98-9F06-D7AA767AA6CF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "20181204 두번째수업", "20181204 두번째수업\20181204 두번째수업.vcxproj", "{D27302C1-FA81-490D-870B-2E10BC53113A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09A5B0D0-B603-4A98-9F06-D7AA767AA6CF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{09A5B0D0-B603-4A98-9F06-D7AA767AA6CF}.Debug|Win32.Build.0 = Debug|Win32
+		{09A5B0D0-B603-4A98-9F06-D7AA767AA6CF}.Release|Win32.ActiveCfg = Release|Win32
+		{09A5B0D0-B603-4A98-9F06-D7AA767AA6CF}.Release|Win32.Build.0 = Release|Win32
+		{D27302C1-FA81-490D-870B-2E10BC53113A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D27302C1-FA81-490D-870B-2E10BC53113A}.Debug|Win32.Build.0 = Debug|Win32
+		{D27302C1-FA81-490D-870B-2E10BC53113A}.Release|Win32.ActiveCfg = Release|Win32
+		{D27302C1-FA81-490D-870B-2E10BC53113A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
